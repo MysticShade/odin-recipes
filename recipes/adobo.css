@@ -1,0 +1,47 @@
+html {
+    font-family: fantasy;
+}
+
+img {
+    border-radius: 800px 800px 800px 800px;
+}
+
+.chiken {
+position:relative; left: 145px
+}
+
+.description {
+    border-radius: 10px;
+    background-color: beige;
+    length: 100px;
+}
+
+body {
+    background-color: antiquewhite;
+    
+}
+
+.ingredients {
+    border-radius: 10px;
+    background-color: beige;
+    width: 250px;
+    height: 260px;
+}
+.spec {
+    position: relative; left: 10px;
+    border-radius: 20px;
+    width: 150px;
+    background-color: beige;
+    
+}
+
+.strong {
+    position: relative;
+}
+
+.directions {
+    border-radius: 10px;
+    background-color: beige;
+    width: 500px;
+    height: 370px;
+}
