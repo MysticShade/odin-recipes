@@ -1,9 +1,35 @@
+html {
+    text-align: center;
+}
+
 body  {
-    font-family:fantasy
+    font-family:fantasy;
     background-color: antiquewhite;
-    
+}
+
+body h1,
+h3,
+.here-box {
+    color: brown;
+}
+
+img {
+    border: 7px dotted orange;
+    height:auto;
+    width: 710px
 }
 
 .Here {
     font-style: oblique;
 }
+
+.the-list {
+    text-align: center;
+    list-style-position: :outside;
+}
+
+ul {
+    display:inline-block;
+    margin-right: 20px;
+}
+
